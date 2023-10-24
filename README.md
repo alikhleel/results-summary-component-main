@@ -29,3 +29,7 @@ Users should be able to:
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 - [Tailwind](https://tailwindcss.com/) - CSS framework
+
+## Live Preview
+<a href="https://results-summary-component-main-dusky.vercel.app"> Results summary component</a>
+
